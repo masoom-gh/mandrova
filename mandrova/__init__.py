@@ -1,2 +1,2 @@
-import SensorDataGenerator
+from .data_generator import SensorDataGenerator
 

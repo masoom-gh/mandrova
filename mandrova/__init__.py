@@ -1,2 +1,2 @@
-from .mandrova import SensorDataGenerator
+import SensorDataGenerator
 
